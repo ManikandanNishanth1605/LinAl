@@ -1,0 +1,8 @@
+# Files
+*.swp
+*.o
+*.out
+
+# Folders
+build/
+notes/
